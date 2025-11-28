@@ -1,0 +1,59 @@
+name: monpay
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.3.0 <4.0.0"   # (сонголт) beta биш тогтвортойд шилжүүлэв
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/help/recharge_guide.jpg
+    - assets/help/loan_guide.jpg
+    - assets/help/long_loan_guide.jpg
+    - assets/help/awww_banner_1.jpg
+    - assets/help/awww_banner_2.jpg
+    - assets/help/awww_banner_3.jpg
+    - assets/help/awww_banner_4.jpg
+    - assets/help/awww_banner_5.jpg
+    - assets/help/vcard_banner.jpg
+    - assets/help/vcard_steps.jpg
+    - assets/help/monpay_plus_guide.jpg
+    - assets/help/purchase_loan_guide.jpg
+    - assets/help/banner_cashback.jpg
+    - assets/help/banner_referral.jpg
+    - assets/help/banner.jpg
+    - assets/help/banner_60gb.jpg
+    - assets/help/60gb.jpg
+    - assets/help/banner_iphone17.jpg
+    - assets/help/banner_travel_sim.jpg
+    - assets/help/banner_maxmall.jpg
+    - assets/help/banner_early_payment.jpg
+    - assets/help/promo_early_payment_banner.jpg
+    - assets/help/promo_mobicom_steps.jpg
+    - assets/help/promo_monpay_steps.jpg
+    - assets/help/banner_monpay_plus.jpg
+    - assets/help/banner_virtual_promo.jpg
+    - assets/help/promo_virtual_macbook.jpg
+    - assets/help/banner_monpay_kids.jpg
+    - assets/help/promo_kids_main.jpg
+    - assets/help/promo_kids_diagram.jpg
+    - assets/help/banner_smart_data.jpg
+    - assets/help/promo_card_10percent.jpg
+    - assets/help/10%.jpg
+    - assets/help/uramshuulal_maxmall.jpg
+    - assets/help/data_sim.jpg
+    # эсвэл хавтасаар нь бүртгэх бол:
+    # - assets/help/
